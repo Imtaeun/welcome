@@ -85,4 +85,7 @@ header { background-color: rgba(255,255,255, 0); }
     .con1 .txt-box { font-size: 8vw; }
     .line-box h3 { font-size: 25px; }
     .con1 .img-box.morph { position:static; margin-top: 5vw; width: 100%; max-height: auto; height: 100%;}
+    .box-wrap { flex-wrap: wrap; }
+    .box-wrap .txt-box { width: 100%; }
+    .box-wrap .img-box { width: 100%; }
 }
